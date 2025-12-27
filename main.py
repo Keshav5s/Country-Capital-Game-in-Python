@@ -1,8 +1,5 @@
 #Country-Capital Game in Python 
-#cc means CountryCapital
-
 import random
-
 # Dictionary of countries and capitals
 country_capital = {
     "India": "New Delhi",
